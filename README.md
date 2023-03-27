@@ -1,4 +1,5 @@
 **:warning::warning::warning:Read the [release notes](<https://github.com/CoMPaTech/stromer/releases>) before upgrading, in case there are BREAKING changes!:warning::warning::warning:**
+
 <img src="https://github.com/sammyke007/stromer/raw/main/images/logo.png"
      alt="Stromer"
      align="right" 
