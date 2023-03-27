@@ -1,9 +1,10 @@
-**:warning::warning::warning:Read the [release notes](<https://github.com/CoMPaTech/stromer/releases>) before upgrading, in case there are BREAKING changes!:warning::warning::warning:**
-
 <img src="https://github.com/sammyke007/stromer/raw/main/images/logo.png"
      alt="Stromer"
      align="right" 
      style="width: 200px;margin-right: 10px;" />
+
+**:warning::warning::warning:Read the [release notes](<https://github.com/CoMPaTech/stromer/releases>) before upgrading, in case there are BREAKING changes!:warning::warning::warning:**
+
 # Stromer Custom Component for Home Assistant
 
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/CoMPaTech/stomer/)
